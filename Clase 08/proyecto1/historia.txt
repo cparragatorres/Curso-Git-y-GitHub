@@ -6,3 +6,5 @@ además nació en Perú
 Hoy hablaremos de su historia.
 
 En camara parece alto pero la verdad no es alto
+
+Hoy sabe programar tambien en Flutter
