@@ -7,3 +7,4 @@
 <img height="700" src="/images/05 Volver en el tiempo en nuestro repositorio utilizando reset y checkout.png"/>
 <img height="700" src="/images/06 Introduccion a las ramas o branches.webp"/>
 <img height="700" src="/images/07 fusion de ramas con git merge.webp"/>
+<img height="700" src="/images/08 solucion de conflictos al hacer un merge.webp"/>
